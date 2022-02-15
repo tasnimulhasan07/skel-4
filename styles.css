@@ -86,6 +86,10 @@ a:hover {
 }
 
 .homepage {
+  background: url("Image/backimg.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover
   height: 718px;
 }
 
@@ -102,6 +106,8 @@ a:hover {
   align-items: center;
   color: #172b4d;
   font-family: 'poppins', sans-serif;
+  margin: 10px;
+  padding: 10px;
 }
 
 .me {
@@ -111,6 +117,8 @@ a:hover {
   font-style: normal;
   color: #344563;
   font-family: 'poppins', sans-serif;
+  margin: 10px;
+  padding: 10px;
 }
 
 .connect {
