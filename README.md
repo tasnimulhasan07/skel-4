@@ -1,6 +1,6 @@
-# Mobile-Protfolio
+# Mobile-portfolio
 
-This site will be used as a mobile application to show off Tasnimul Hasan' protfolio, here he will display all projects that he worked on previously to prove his programming skills.
+This site will be used as a mobile application to show off Tasnimul Hasan' portfolio, here he will display all projects that he worked on previously to prove his programming skills.
 ______________
 # Built With <br>
 HTML and CSS <br>
@@ -13,19 +13,19 @@ _________________
 To get a local copy up and running follow these simple example steps.
 
 Prerequisites - <br>
-Vist the git hub page Github Page Link.
+Visit the git hub page Github Page Link.
 
 Install - <br>
 If not already downloaded, download Visual Studio, atom or any other IDE source code editor It may also help to download GitHub Desktop application
 
 Setup - <br>
-If Github desktop application is insalled in your device you can download the prokect directly to that. Once downloaded GitHub will give you the option to create a clone of the project, this will then allow you to open said project to your IDE. <br>
+If Github desktop application is installed in your device you can download the project directly to that. Once downloaded GitHub will give you the option to create a clone of the project, this will then allow you to open said project to your IDE. <br>
 
 If you do not have the GitHub desktop application you can download the project as a zip file directly to you computer. when the download is complete extract the folder to a location of your choice. After this you can open you IDE of choice and open the project folder.
 
 
 Run tests <br>
-test can me ran locally on your meachine by using the run function on your IDE.
+test can me ran locally on your machine by using the run function on your IDE.
 
 Deployment <br>
 restrict deployment
@@ -42,7 +42,7 @@ _________________
 # 🤝 Contributing <br>
 Contributions, issues, and feature requests are welcome! <br>
 
-Feel free to check the https://github.com/tasnimulhasan07/hello-microverse-00 to get the project.
+Feel free to check the https://github.com/tasnimulhasan07 to get access to all the projects.
 
 # Show your support <br>
 Give a ⭐️ if you like this project!
